@@ -38,6 +38,3 @@ The dataset used is the **Syracuse University Women’s Lacrosse** player statis
 - `README.md`: Project overview and explanation.
 
 ---
-
-## 📬 Submission
-As required, this repository is public and does not contain the dataset file. GitHub repo link was submitted via email to: **jrstrome@syr.edu**
